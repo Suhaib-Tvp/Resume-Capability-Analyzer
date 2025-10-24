@@ -1,4 +1,4 @@
-# Resume_# 🧠 GenAI Resume Capability Analyzer
+#GenAI Resume Capability Analyzer
 
 An intelligent resume analysis tool powered by Generative AI that provides comprehensive career compatibility assessment and personalized recommendations.
 
