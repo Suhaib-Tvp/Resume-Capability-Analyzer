@@ -12,9 +12,3 @@ An intelligent resume analysis tool powered by Generative AI that provides compr
 - **PDF Report Export** - Professional analysis reports
 - **Real-time Processing** - Instant feedback and recommendations
 
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/resume-analyzer.git
-   cd resume-analyzer
